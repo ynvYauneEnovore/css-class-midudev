@@ -1,0 +1,16 @@
+.container {
+    background: lightcoral;
+    border: 3px solid black;
+    border-radius: 10px;  
+    display: grid;
+ }
+
+ .container div {
+    background: lightskyblue;
+    border: 2px solid #09f;
+    border-radius: 6px;
+ }
+
+ body {
+    background: #ddd;
+ }
